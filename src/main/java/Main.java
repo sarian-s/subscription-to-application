@@ -16,9 +16,6 @@ public class Main {
         post.birthday.month = 2023;
         post.birthday.year = 04;
 
-
-
-
     }
 
 }
